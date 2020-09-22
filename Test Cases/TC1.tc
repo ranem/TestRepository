@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>220611fb-bc7c-44eb-9dff-486195d8d9a3</testCaseGuid>
+   <variable>
+      <defaultValue>'Text Box'</defaultValue>
+      <description></description>
+      <id>ae6fda05-3c26-42f5-bc7f-b00db30e5d7f</id>
+      <masked>false</masked>
+      <name>tabname</name>
+   </variable>
+   <variable>
+      <defaultValue>'Elements'</defaultValue>
+      <description></description>
+      <id>02af350a-e539-4178-8139-142163cea086</id>
+      <masked>false</masked>
+      <name>modulename</name>
+   </variable>
+</TestCaseEntity>

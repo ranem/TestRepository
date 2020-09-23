@@ -34,4 +34,29 @@
       <initValue>'Aubay2020@92'</initValue>
       <name>password</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'C:\\\\Users\\\\rslama\\\\Desktop\\\\KatalonProjects\\\\JDD.xlsx'</initValue>
+      <name>ExcelPath</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'postgresql'</initValue>
+      <name>DBSql</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Feuil1'</initValue>
+      <name>SheetName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'jdbc'</initValue>
+      <name>DBConnector</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'SELECT * FROM &quot;UserInformation&quot;'</initValue>
+      <name>sqlrequest</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
